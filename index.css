@@ -84,7 +84,7 @@ body{
   animation-duration:11s;
 }
 
-/* HEADER */
+
 
 .header{
   width:100%;
@@ -148,6 +148,10 @@ body{
   font-weight:600;
   cursor:pointer;
   transition:.4s;
+}
+
+.main-btn{
+  text-decoration: none;
 }
 
 .main-btn:hover,
